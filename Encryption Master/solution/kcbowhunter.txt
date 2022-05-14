@@ -1,0 +1,24 @@
+If you are having trouble solving this challenge, please solve my other
+challenges first:
+RubberDuck
+Snowboard
+PikesPeak
+GandalfTheWise
+
+The challenges are designed to be increasing in difficulty and this HailCaesar challenge is the next
+challenge in the series.
+
+My Twitter DM is open @kcbowhunter but please only ping me if you have solved the above challenges first.
+
+If you are new to the jpeg file format please read this:
+https://dev.exiv2.org/projects/exiv2/wiki/The_Metadata_in_JPEG_files
+
+If you are new to hacking and are still learning about bits and bytes please watch this video:
+https://www.youtube.com/watch?v=tLdvEOam3sk
+
+xorpd has a lot of free videos that teach important computer science / hacking concepts.
+
+Note that often my challenges combine forensics and some aspect of cryptography.
+
+Have fun!
+kcbowhunter
