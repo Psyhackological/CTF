@@ -1,0 +1,16 @@
+CTFlearn{th4t_is_why_you_n33d_to_sanitiz3_inputs} 
+ABCTF{45C11_15_U53FUL}
+CTF{Bit_Flippin}
+flagsamuelmorseiscoolbythewayilikechees
+CTF{FlaggyWaggyRaggy}
+flag{wow!_data_is_cool}
+ABCTF{b1nw4lk_is_us3ful}
+ABCTF{Du$t1nS_D0jo}
+flag{EEe_x_I_FFf}
+flag{3l1t3_3x1f_4uth0r1ty_dud3br0}
+flag{protect_your_git}
+flag{AFlagInPCAP}
+CTF{I_AM_PROUD_OF_YOU}
+CTFlearn{Maximus.Decimus.Meridius}
+CTFlearn{5432103279251234}
+CTFlearn{4m_1_4_r3al_h4ck3r_y3t}
