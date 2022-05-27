@@ -47,4 +47,5 @@ const karta = "543210******1234";
 	}
 
 	//document.querySelector(".pojemnik").innerHTML = luhn(karta_test);
-	document.querySelector(".pojemnik").innerHTML = search_six(karta); 
+	document.querySelector(".pojemnik").innerHTML = search_six(karta);
+ 
