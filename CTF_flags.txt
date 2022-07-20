@@ -14,3 +14,4 @@ CTF{I_AM_PROUD_OF_YOU}
 CTFlearn{Maximus.Decimus.Meridius}
 CTFlearn{5432103279251234}
 CTFlearn{4m_1_4_r3al_h4ck3r_y3t}
+CTLlearn{today@nasa.gov}
